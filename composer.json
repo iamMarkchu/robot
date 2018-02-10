@@ -1,0 +1,13 @@
+{
+    "require": {
+        "owner888/phpspider": "^2.1",
+        "guzzlehttp/guzzle": "^6.3",
+        "predis/predis": "^1.1"
+    },
+    "autoload": {
+        "files": ["func/common.php"],
+        "psr-4": {
+            "Lib\\" : "lib/"
+        }
+    }
+}

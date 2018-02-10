@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/data
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
